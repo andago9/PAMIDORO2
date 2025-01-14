@@ -1,0 +1,64 @@
+# Marinara: Contributors
+
+Marinara is open source software and is built by volunteers from around the world.
+
+- [Chris Schmich](https://github.com/schmich): Lead development & design
+- [Dmitry Muravyev](https://github.com/dimuravyev): Notification enhancements
+- [Mark Bennett](https://github.com/MarkBennett): Firefox compatibility
+- [José Varela](https://github.com/joselcvarela): Portuguese (Portugal) translation
+- [Omar Francisco](https://github.com/ofou): Spanish translation
+- [Maite Clausell](https://github.com/mcmtradu): Spanish translation
+- [Mathieu Lescaudron](https://github.com/MLescaudron): French translation
+- [Nicolai Hoilund](https://github.com/nicolaihoilund): Danish translation
+- [Jeroen Deviaene](https://github.com/jerodev): Dutch translation
+- [Robin Haveneers](https://github.com/haveneersrobin): Dutch translation
+- [Alex Olson](https://github.com/alexkolson): German translation
+- [William Killerud](https://github.com/wkillerud): Norwegian Bokmål translation
+- [Lambis Elef](https://github.com/lambiselef): Greek translation
+- [Ashraful Haq Rahat](https://github.com/MAHRahat): Bengali translation
+- [XTacDK](https://github.com/XTacDK): Polish translation
+- [lena15n](https://github.com/lena15n): Russian translation
+- [Po Chun, Lu](https://github.com/Sirius207): Chinese (Taiwan) translation
+- [Omega Chiu](https://github.com/omeganc): Chinese (Taiwan) translation
+- [Kietzmann](https://github.com/Kietzmann): Ukrainian translation
+- [Shashank SVRSN](https://github.com/fossterer): Telugu translation
+- [frozzie](https://github.com/frozzie): Chinese (China) translation
+- [myTimeGone](https://github.com/myTimeGone): Chinese (China) translation
+- [Julianna Brandão](https://github.com/JuhBass): Portuguese (Brazil) translation
+- [Teerapong Chantakard](https://github.com/azygous13): Thai translation
+- [Sarp Başaraner](https://github.com/sgbasaraner): Turkish translation
+- [L1Q](https://github.com/L1Q): Russian translation
+- [Maite Clausell](https://github.com/mcmtradu): Catalan translation
+- [Craig Loftus](https://github.com/craigloftus): Autostart timers
+- [Mathias Mikkelsen](https://github.com/Fysikeren): Danish translation
+- [Giovanni Pessiva](https://github.com/giovannipessiva): Italian translation
+- [TomG777](https://github.com/TomG777): Dutch translation
+- [João Pedro Sconetto](https://github.com/sconetto): Portuguese (Brazil) translation
+- [Ridho Pratama](https://github.com/ridho9): Indonesian translation
+- [Ivan Nesic](https://github.com/fatkaratekid): Serbian translation
+- [Duc Trinh](https://github.com/dmtri): Vietnamese translation
+- [Markus Deibel](https://github.com/msdeibel): German translation
+- [Pyrox](https://github.com/Pyr0x1): Italian translation
+- [kbigwheel](https://github.com/bigwheel): Japanese translation
+- [André Laszlo](https://github.com/andrelaszlo): Swedish translation
+- [Jaroslav Svoboda](https://github.com/multiflexi): Czech translation
+- [Lukáš Linhart](https://github.com/panda7789): Update Czech translation
+- [David Bautista](https://github.com/dbautistav): Notification Tab enhancement
+- [Baptiste Jacquemet](https://github.com/bjacquemet): French Translation
+- [Valentina De Col](https://github.com/valentinadc): Italian translation
+- [Ma Xiaoliang](https://github.com/ma-xiao-liang): Update Chinese(China) Translation
+- [Pooria Morovati](https://github.com/pooriamo): Persian translation
+- [Esko Rikkonen](https://github.com/eskorikkonen): Finnish translation
+- [Darkpingouin](https://github.com/Darkpingouin): French translation
+- [Faisal](https://github.com/tr0id): Arabic translation
+- [rootEnginear](https://github.com/rootEnginear): Thai translation
+- [Federico Matteoni](https://github.com/fexed): Italian translation
+- [Iosif Dan](https://github.com/danutiosif): Romanian translation
+- [Brian L](https://github.com/brianl9995): Spanish translation
+- [Wesley Matos](https://github.com/ologbonowiwi): Portuguese (Brazil) translation
+- [Rachel Ng](https://github.com/rachelnml): Malay translation
+- [zebrayon](https://github.com/zebrayon): Update Japanese translation
+- [Alvin Ahn](https://github.com/alvinahn): Korean translation
+- [Mantas](https://github.com/mantasio): Lithuanian translation
+- [Rishabh Kanth](https://github.com/RishabhK200): Marathi translation
+- [Viliam Popovec](https://github.com/vpopovec): Slovak translation
