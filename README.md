@@ -1,8 +1,8 @@
-# Marinara: Pomodoro® Assistant
+# Pamidoro: Pomodoro® Assistant
 
-Marinara is a [time management assistant for Chrome](https://chrome.google.com/webstore/detail/marinara/lojgmehidjdhhbmpjfamhpkpodfcodef) that follows the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique).
+Pamidoro es una extension de chrome basada en la tecnica pomodoro
 
-Pomodoro® and The Pomodoro Technique® are trademarks of Francesco Cirillo. Marinara is not affiliated or associated with or endorsed by Pomodoro®, The Pomodoro Technique® or Francesco Cirillo.
+Pomodoro® y  The Pomodoro Technique® son marcas registradas de Francesco Cirillo. Pamidoro no es afiliado o asocionado ni tiene relación con Pomodoro®, The Pomodoro Technique® or Francesco Cirillo.
 
 ## Features
 
